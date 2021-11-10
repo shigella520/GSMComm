@@ -4,7 +4,7 @@ using System.Runtime.Remoting.Channels;
 using System.Security.Principal;
 
 /// <summary>
-/// Implements the authorization module for the server.
+/// Implements the authorization module for the server.test
 /// </summary>
 namespace GsmComm.Server
 {
